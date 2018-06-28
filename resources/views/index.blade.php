@@ -15,7 +15,7 @@
 				<td>Judul</td>
 				<td>Penulis</td>
 				<td>Deskripsi</td>
-				<td>Kategoriiiii</td>
+				<td>Kategori</td>
 			</tr>
 		</thead>
 	</table>
